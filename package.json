@@ -7,7 +7,6 @@
     "anydoor": "bin/anydoor"
   },
   "scripts": {
-    "start-sup": "supervisor src/index.js",
     "start-node": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
